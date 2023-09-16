@@ -103,7 +103,7 @@ nav {
     padding-bottom: 10px;
 }
 
-nav  h2, section h3 {
+nav  h2 {
     visibility: hidden;
     height: 1px;
 }
